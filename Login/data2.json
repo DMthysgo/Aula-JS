@@ -1,0 +1,17 @@
+{
+    "users": [
+      {
+        "username": "usuario123",
+        "password": "senha456"
+      },
+      {
+        "username": "outroUsuario",
+        "password": "outraSenha"
+      },
+      {
+        "username": "terceiroUsuario",
+        "password": "senha123"
+      }
+    ]
+  }
+  
